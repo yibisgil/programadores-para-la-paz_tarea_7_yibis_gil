@@ -1,0 +1,4 @@
+{
+"tipo": "Recolección de basura",
+"descripcion": "Los vecinos reportan acumulación de residuos en una esquina del barrio debido a que el servicio de recolección no ha pasado en varios días."
+}

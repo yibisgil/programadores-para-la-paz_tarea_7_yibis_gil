@@ -1,0 +1,29 @@
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+
+### prueba
+
+GET http://localhost:3000/reportes
+Content-Type: application/json
+
+
+### prueba ejemplo 2
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+
+
+
+
+
